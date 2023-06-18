@@ -6,4 +6,5 @@ document.querySelectorAll("nav a").forEach((anchor) => {
       behavior: "smooth",
     });
   });
+  console.log("hello world");
 });
